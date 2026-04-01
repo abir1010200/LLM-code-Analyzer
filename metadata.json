@@ -1,0 +1,5 @@
+{
+  "name": "CodeInsight AI",
+  "description": "Intelligent Code Complexity Analyzer powered by AI. Analyze Time and Space complexity, generate recurrence relations, and visualize performance graphs.",
+  "requestFramePermissions": []
+}
